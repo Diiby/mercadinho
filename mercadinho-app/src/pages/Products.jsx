@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-// 1. Importações adicionadas
 import { Container, Grid, Typography, Box, FormControlLabel, Switch, Button, Modal } from '@mui/material';
 import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
 import ProductCard from '../components/ProductCard';
