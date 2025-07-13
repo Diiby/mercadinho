@@ -5,7 +5,7 @@ import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
 import ProductCard from '../components/ProductCard';
 import Navbar from '../components/Navbar';
 import MenuLateral from '../components/MenuLateral';
-import AddProductForm from '../components/AddProductForm'; // Assumindo que você criou este arquivo
+import AddProductForm from '../components/AddProductForm'; 
 
 // Estilo para o Modal (pop-up)
 const style = {
