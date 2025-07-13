@@ -1,0 +1,339 @@
+{
+  "users": [
+    {
+      "id": "2b94",
+      "name": "Daniel Rocha",
+      "email": "dan@dan.com",
+      "password": "1234"
+    },
+    {
+      "id": "9e28",
+      "name": "Jose Manoel ",
+      "email": "jose@jose.com",
+      "password": "123"
+    },
+    {
+      "id": "c107",
+      "name": "Lucas Paiva",
+      "email": "lucas@lucas.com",
+      "password": "123"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Maçã (Kg)",
+      "price": 5.5,
+      "category": "Hortifruti",
+      "image": "https://quintavilar.pt/wp-content/uploads/2021/10/macas_0004_mac%CC%A7a%CC%83-fuji.png"
+    },
+    {
+      "id": "2",
+      "name": "Pão Francês (Kg)",
+      "price": 6.99,
+      "category": "Padaria",
+      "image": "https://www.extraplus.com.br/uploads/produtos/original/2448_20250403172727_thumb_Sem_titulo3.png"
+    },
+    {
+      "id": "3",
+      "name": "Leite Integral Italac",
+      "price": 5.2,
+      "category": "Laticínios",
+      "image": "https://friosdaamazonia.agilecdn.com.br/1501_1.png"
+    },
+    {
+      "id": "4",
+      "name": "Queijo Coalho (Kg)",
+      "price": 24.99,
+      "category": "Frios",
+      "image": "https://img.freepik.com/psd-gratuitas/vista-de-queijo-fresco-e-delicioso_23-2150961146.jpg?semt=ais_hybrid&w=740"
+    },
+    {
+      "id": "5",
+      "name": "Cenoura (Kg)",
+      "price": 3,
+      "category": "Hortifruti",
+      "image": "https://e7.pngegg.com/pngimages/720/73/png-clipart-carrot-vegetable-fruit-legume-carrot-food-tomato-thumbnail.png"
+    },
+    {
+      "id": "6",
+      "name": "Carne de Porco (Kg)",
+      "price": 45.9,
+      "category": "Açougue",
+      "image": "https://png.pngtree.com/png-clipart/20230927/original/pngtree-the-butcher-s-cut-guide-of-pork-png-image_13140626.png"
+    },
+    {
+      "id": "7",
+      "name": "Banana (Kg)",
+      "price": 2.99,
+      "category": "Hortifruti",
+      "image": "https://png.pngtree.com/png-clipart/20220716/ourmid/pngtree-banana-yellow-fruit-banana-skewers-png-image_5944324.png"
+    },
+    {
+      "id": "10",
+      "name": "Arroz Branco (Kg)",
+      "price": 7.99,
+      "category": "Mercearia",
+      "image": "https://mercantilnovaera.vtexassets.com/arquivos/ids/188360/Arroz-Branco-SOLTINHO-Tipo-1-Pacote-1kg.png?v=637690424740200000"
+    },
+    {
+      "id": "11",
+      "name": "Feijão Carioca (Kg)",
+      "price": 8.79,
+      "category": "Mercearia",
+      "image": "https://kicaldo.com.br/wp-content/uploads/2020/07/Kicaldo-feijaocarioca.png"
+    },
+    {
+      "id": "12",
+      "name": "Iogurte Nestlé (170g)",
+      "price": 3.89,
+      "category": "Laticínios",
+      "image": "https://mambodelivery.vtexassets.com/arquivos/ids/228665-800-450?v=638775791055330000&width=800&height=450&aspect=true"
+    },
+    {
+      "id": "13",
+      "name": "Café (500g)",
+      "price": 15.9,
+      "category": "Mercearia",
+      "image": "https://medlimp.com.br/wp-content/uploads/2024/03/Cafe-Melitta-500g-Tradicional.png"
+    },
+    {
+      "id": "14",
+      "name": "Contra Filé (Kg)",
+      "price": 49.9,
+      "category": "Açougue",
+      "image": "https://www.acouguebomboi.com.br/wp-content/uploads/2021/04/contra-file-bomboi-mercado-de-carnes-rio-de-janeiro.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Coca-Cola (2L)",
+      "price": 8.99,
+      "category": "Bebidas",
+      "image": "https://superprix.vteximg.com.br/arquivos/ids/225295-200-200/140958_20220108115233_thumb_Refrigerante_Coca_Cola_Original_2_5L.jpg.jpg?v=638750506121530000"
+    },
+    {
+      "id": "16",
+      "name": "Tomate (Kg)",
+      "price": 7.8,
+      "category": "Hortifruti",
+      "image": "https://ibassets.com.br/ib.item.image.big/b-5f53e30322214af3b214b3f447f14834.png"
+    },
+    {
+      "id": "17",
+      "name": "Sabão em Pó (800g)",
+      "price": 15.6,
+      "category": "Limpeza",
+      "image": "https://images.tcdn.com.br/img/img_prod/586385/sabao_em_po_1kg_ype_19483_2_47b55cbc7b576b6d87b7a4fdc72ab363.png"
+    },
+    {
+      "id": "18",
+      "name": "Shampoo (325ml)",
+      "price": 18.99,
+      "category": "Higiene",
+      "image": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/55963/df17d383-f108-4bdb-9542-9cfae16cfac9-seda-ceramidas-shampoo-325ml.png"
+    },
+    {
+      "id": "19",
+      "name": "Queijo Mussar. (Kg)",
+      "price": 31.75,
+      "category": "Frios",
+      "image": "https://ibassets.com.br/ib.item.image.big/b-3f4da78fb63649a18ad55d039b9c9cd2.png"
+    },
+    {
+      "id": "20",
+      "name": "Batata Inglesa (Kg)",
+      "price": 6.99,
+      "category": "Hortifruti",
+      "image": "https://tdc0wy.vteximg.com.br/arquivos/ids/165491-1000-1000/BATATA%20INGLESA%20KG.png.png?v=638797925701130000"
+    },
+    {
+      "id": "21",
+      "name": "Óleo de Soja (900ml)",
+      "price": 7.99,
+      "category": "Mercearia",
+      "image": "https://phygital-files.mercafacil.com/peruzzo/uploads/produto/oleo_soja_soya_pet_900ml_5324d509-a3d9-4633-be96-c1b6a736f22c.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Açúcar (Kg)",
+      "price": 4.89,
+      "category": "Mercearia",
+      "image": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/dijosdoces/media/uploads/produtos/foto/hyszjzwt/file.png"
+    },
+    {
+      "id": "23",
+      "name": "Peito de Frango (Kg)",
+      "price": 22.9,
+      "category": "Açougue",
+      "image": "https://static.vecteezy.com/system/resources/previews/041/454/582/non_2x/ai-generated-a-piece-of-raw-chicken-breast-isolated-on-transparent-background-free-png.png"
+    },
+    {
+      "id": "24",
+      "name": "Cebola Branca (Kg)",
+      "price": 5.99,
+      "category": "Hortifruti",
+      "image": "https://png.pngtree.com/png-clipart/20240321/original/pngtree-slice-of-white-onion-png-image_14639528.png"
+    },
+    {
+      "id": "25",
+      "name": "Detergente (500ml)",
+      "price": 2.49,
+      "category": "Limpeza",
+      "image": "https://tb0932.vtexassets.com/arquivos/ids/169546/Detergente%20Neutro%20500ml%20Ype%20101095.png.png?v=638773003324270000"
+    },
+    {
+      "id": "26",
+      "name": "Creme Dental (90g)",
+      "price": 5.5,
+      "category": "Higiene",
+      "image": "https://images.ctfassets.net/ynyrv8292f9c/3jaeW1h0E8xLaCIHpF6SIa/edcaeb7559c1f3bdf44255d908051d3a/file.png?fm=webp&q=85"
+    },
+    {
+      "id": "27",
+      "name": "Suco de Laranja (1L)",
+      "price": 11.8,
+      "category": "Bebidas",
+      "image": "https://domolivio.vtexassets.com/arquivos/ids/535652/Suco-de-Laranja-Del-Valle-1L.jpg?v=638683309906800000"
+    },
+    {
+      "id": "28",
+      "name": "Manteiga (200g)",
+      "price": 10.99,
+      "category": "Laticínios",
+      "image": "https://images.squarespace-cdn.com/content/v1/64d1023ddbd805162a22fb1d/3811acac-c321-42b4-ab6f-c878dc9bb205/3D04972_fot_mockup_manteiga_com_sal_regina_200g_baixa.png"
+    },
+    {
+      "id": "29",
+      "name": "Presunto (200g)",
+      "price": 9.8,
+      "category": "Frios",
+      "image": "https://phygital-files.mercafacil.com/armazem-maria/uploads/produto/presunto_perdig_o_sem_capa_de_gordura_fatiado_kg_54f62b6e-f508-421f-947f-cbf6207ff98c.png"
+    },
+    {
+      "id": "30",
+      "name": "Melão (Kg)",
+      "price": 5.75,
+      "category": "Hortifruti",
+      "image": "https://static.vecteezy.com/system/resources/previews/015/100/049/non_2x/cantaloupe-transparent-background-free-png.png"
+    },
+    {
+      "id": "31",
+      "name": "Sabonete",
+      "price": 1.9,
+      "category": "Higiene",
+      "image": "https://www.rommac.com.br/imagens/produtos/605x605/23021_Sabonete_em_Barra_Protex_Nutri_Protect_Vitamina_E_85g_1.jpg"
+    },
+    {
+      "id": "32",
+      "name": "Farinha de Trigo (Kg)",
+      "price": 6.2,
+      "category": "Mercearia",
+      "image": "https://www.cozinhadonabenta.com.br/wp-content/uploads/2018/11/site-jmacedo-farinha-de-trigo-dona-benta-tipo-1-1kg-embalagem-plastica-2023.jpg"
+    },
+    {
+      "id": "33",
+      "name": "Ovos (Dúzia)",
+      "price": 9.5,
+      "category": "Mercearia",
+      "image": "https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-white-eggs-in-basket-png-image_13212496.png"
+    },
+    {
+      "id": "34",
+      "name": "Amaciante (500ml)",
+      "price": 14.99,
+      "category": "Limpeza",
+      "image": "https://tb0932.vtexassets.com/arquivos/ids/169474/Amaciante%20Concentrado%20Blue%20500ml%20Ype%20104013.png.png?v=638772285182430000"
+    },
+    {
+      "id": "35",
+      "name": "Uva (Kg)",
+      "price": 3.25,
+      "category": "Hortifruti",
+      "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(transparent):quality(80)/shoeboxs/catalog/80039.png"
+    },
+    {
+      "id": "36",
+      "name": "Água Mineral (1L)",
+      "price": 3,
+      "category": "Bebidas",
+      "image": "https://a-static.mlcdn.com.br/800x560/kit-6-agua-mineral-crystal-1-litro/drogariaaraujosa/50062734/c38fe07c5e648c2e0ca7614b9092f2ab.jpeg"
+    },
+    {
+      "id": "37",
+      "name": "Melância (Kg)",
+      "price": 3.99,
+      "category": "Hortifruti",
+      "image": "https://phygital-files.mercafacil.com/supermercado-real-de-niteroi/uploads/produto/melancia_1kg_8e1a815f-1a89-4882-8a0e-d2d6a4bcc161.png"
+    },
+    {
+      "id": "38",
+      "name": "Linguiça (Kg)",
+      "price": 17.5,
+      "category": "Açougue",
+      "image": "https://www.sondadelivery.com.br/Arquivos/ProdutosSku/1000037922/7894904005062_2.png"
+    },
+    {
+      "id": "39",
+      "name": "Bolo (Fatia)",
+      "price": 4.55,
+      "category": "Padaria",
+      "image": "https://ibassets.com.br/ib.item.image.medium/m-943b6cc15f0041cc94a4a3f9ddc9fbe7.jpeg"
+    },
+    {
+      "id": "40",
+      "name": "Coxinha (und)",
+      "price": 3.49,
+      "category": "Padaria",
+      "image": "https://png.pngtree.com/png-clipart/20230927/original/pngtree-coxinha-of-chicken-brazilian-snack-png-image_13146268.png"
+    },
+    {
+      "id": "41",
+      "name": "Pastel (und)",
+      "price": 3.49,
+      "category": "Padaria",
+      "image": "https://panutti.com.br/resize/imagecache//78e14b94b01b24ca2770627daf248bb4.jpg"
+    },
+    {
+      "id": "42",
+      "name": "Mortadela (200g)",
+      "price": 8.49,
+      "category": "Frios",
+      "image": "https://ibassets.com.br/ib.item.image.large/l-79622e4ca6144d91b4455f2a378a0a1e.jpg"
+    },
+    {
+      "id": "43",
+      "name": "Leite Condensado",
+      "price": 6.59,
+      "category": "Laticínios",
+      "image": "https://a-static.mlcdn.com.br/800x560/leite-condensado-nestle-semidesnatado-moca-caixa-395g/magazineluiza/226006300/21e1908ac896071dcda16dae946b95eb.jpg"
+    },
+    {
+      "id": "44",
+      "name": "Desodorante",
+      "price": 12.89,
+      "category": "Higiene",
+      "image": "https://superprix.vteximg.com.br/arquivos/ids/225337-600-600/desodorante-dove-original-45g-principal.png.png?v=638751412724230000"
+    },
+    {
+      "id": "be0b",
+      "name": "Camarão (Kg)",
+      "price": 38.9,
+      "category": "Açougue",
+      "image": "https://d21wiczbqxib04.cloudfront.net/t_0zFUbd4dvh-4rDQY7umAypKvQ=/fit-in/453x453/filters:fill(FFFFFF):background_color(white)/https://osuper-ecommerce-andorinha.s3.sa-east-1.amazonaws.com/cb8c890d-capia-de-capia-de-presutos-queijos-10.png"
+    },
+    {
+      "id": "b21e",
+      "name": "Esponja (und)",
+      "price": 1.9,
+      "category": "Limpeza",
+      "image": "https://img.freepik.com/fotos-gratis/close-up-de-dois-esfregoes_1203-1819.jpg?semt=ais_hybrid&w=740"
+    },
+    {
+      "id": "ae9d",
+      "name": "Guaraná (1L)",
+      "price": 3.59,
+      "category": "Bebidas",
+      "image": "https://cdn.supermercadoescola.org.br/media/catalog/product/cache/54623312829cd3d4f6e7d9783b645a28/7/8/7891991002561.jpeg"
+    }
+  ]
+}
